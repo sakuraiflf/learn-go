@@ -1,6 +1,4 @@
-# lua-problem-solve
-记录遇到的lua问题
+# Golang问题记录
+记录遇到的Golang问题
 
-1、大整数自动显示为科学计数法的问题。
-
-   使用string.format("%0.0f",大整数)即可
+1、go mod 导入自定义包，路径要从最外层包开始写
