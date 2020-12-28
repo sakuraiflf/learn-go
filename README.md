@@ -24,3 +24,5 @@ wsl安装记录
 sudo 找不到go命令 sudo visudo 在source_path加上GOPATH,不要直接修改sudoers的权限，sudo会直接废掉，wsl下我最后只能重装解决
 go env -w GO111MODULE=on
  go env -w GOPROXY=https://goproxy.cn,direct
+
+nano 编辑器ctrl+某个键进行操作
