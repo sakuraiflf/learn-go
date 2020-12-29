@@ -26,3 +26,12 @@ go env -w GO111MODULE=on
  go env -w GOPROXY=https://goproxy.cn,direct
 
 nano 编辑器ctrl+某个键进行操作
+
+安装docker
+
+安装beego
+
+安装protobuf
+
+安装micro
+
