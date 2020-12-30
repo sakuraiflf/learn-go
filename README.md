@@ -32,8 +32,11 @@ nano 编辑器ctrl+某个键进行操作
 安装beego
 
 安装protobuf
+protoc 文件放到bin
+
 
 安装micro
 
-导入、编译包记得使用模块名
+导入、编译包记得使用模块名，要引用到具体的包别名才会生效，
+linux 在/etc/bash.bashrc 下alias lll='klsdjfoasf fasds'的形式添加快捷命令 
 
